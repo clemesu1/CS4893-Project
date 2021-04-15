@@ -1,0 +1,12 @@
+127.0.0.1 [14/Apr/2021:14:36:25 -0300] User Colin has connected.
+127.0.0.1 [14/Apr/2021:14:36:55 -0300] Colin: Hello
+127.0.0.1 [14/Apr/2021:14:37:06 -0300] File Requested: test.css (2764 bytes)
+127.0.0.1 [14/Apr/2021:14:37:23 -0300] File Received: lam.txt (154 bytes)
+127.0.0.1 [14/Apr/2021:14:37:23 -0300] Colin: [File Uploaded]: lam.txt
+127.0.0.1 [14/Apr/2021:14:37:40 -0300] User User has connected.
+127.0.0.1 [14/Apr/2021:14:37:53 -0300] User: Hello
+127.0.0.1 [14/Apr/2021:14:37:56 -0300] User: hello
+127.0.0.1 [14/Apr/2021:14:38:17 -0300] Colin: hello -> User
+127.0.0.1 [14/Apr/2021:14:38:21 -0300] User: hello -> Colin
+127.0.0.1 [14/Apr/2021:14:38:26 -0300] User Colin has disconnected.
+127.0.0.1 [14/Apr/2021:14:38:28 -0300] User User has disconnected.
